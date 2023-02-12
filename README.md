@@ -1,1 +1,2 @@
 # Weather-App
+This project is a JAVA based mobile application that facilitates the user to check the weather of a place from any location. It takes input from the user and gives output as weather, temperature, windspeed and time of that place. This application will show the temperature of a specific location. Also, it will display the current day weather forecast with respect to different timings. For this project, I've used WeatherBit API for fetching weather data.
